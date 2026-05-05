@@ -1,2 +1,1 @@
-# scrap
-This Python script uses Selenium to automatically scrape detailed caravan listings
+Market analysis tool that scrapes and structures raw data into actionable intelligence for automotive sectors.
